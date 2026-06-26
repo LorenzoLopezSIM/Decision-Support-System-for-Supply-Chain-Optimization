@@ -39,4 +39,4 @@ To run the validation demonstration:
 This research and architecture development was conducted in collaboration with:
 
 * **Giuseppe Emanuele Ferro**
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/giuseppe-emanuele-ferro/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzmRZZ4laTgCT0yBrKPhW9g%3D%3D])
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuseppe-emanuele-ferro/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BD4cRCj6PRAKmGqCoTYommQ%3D%3D)
